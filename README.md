@@ -12,6 +12,18 @@ SentinelDrive is an AI-powered perception platform that detects vehicles and eva
 * Intelligent risk scoring
 * Scalable architecture for future perception upgrades
 
+## Dataset
+
+This project is trained and evaluated using the **KITTI Vision Benchmark Suite – Object Detection Dataset**.
+
+- 7,481 training images  
+- 3D bounding box annotations  
+- Real-world autonomous driving scenarios  
+- Vehicle-focused detection classes  
+
+> Note: The dataset is not included in this repository due to size constraints.  
+> Please download it directly from the official KITTI website.
+
 ## Tech Stack
 
 Python • YOLOv8 • OpenCV • Streamlit
