@@ -10,3 +10,4 @@ datasets/
 data/
 runs_colab/
 *.pt
+*.docx
