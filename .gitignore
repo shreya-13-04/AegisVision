@@ -5,5 +5,7 @@ venv/
 .idea/
 .DS_Store
 runs/
+dataset/
 datasets/
+data/
 *.pt
